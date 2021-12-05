@@ -1,7 +1,5 @@
 <meta>
     <!-- UPDATER by ApeLsiN4eG -->
-	<script src="updater/zzlib/inflate-bit32.lua" type="server"></script>
-	<script src="updater/zzlib/zzlib.lua" type="server"></script>
 	<script src="updater/updater_s.lua" type="server"></script>
 	<script src="updater/updater_c.lua" type="client"></script>
 
